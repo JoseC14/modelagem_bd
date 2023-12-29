@@ -1,1 +1,1 @@
-# modelagem_bd
+# Repósitório feito para armazenar modelagens de banco de dados
